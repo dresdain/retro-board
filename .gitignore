@@ -44,3 +44,4 @@ stats
 dist/
 configuration.json
 docker-compose.yml.example
+.env
